@@ -14,7 +14,7 @@ This is a screening project for Vibe Commerce that showcases:
 
 ## 🏗️ Architecture
 
-\`\`\`
+```
 vibe-commerce/
 ├── backend/
 │   ├── models/
@@ -42,7 +42,7 @@ vibe-commerce/
     ├── package.json
     ├── vite.config.js
     └── .env.example
-\`\`\`
+```
 
 ## 🚀 Getting Started
 
