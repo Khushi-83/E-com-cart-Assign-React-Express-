@@ -140,52 +140,12 @@ vibe-commerce/
   - Body: `{ name: string, email: string, cartItems: array }`
   - Response: Receipt object with orderNumber, timestamp, total
 
-## 🎨 UI/UX Features
+## 🖼️ Screenshots
 
-### Design System
-- **Color Palette**: Dark primary (#1a1a1a), White secondary, Blue accent (#0066ff)
-- **Responsive Grid**: Auto-fill grid layout that adapts to screen size
-- **Smooth Interactions**: Hover effects, loading states, and transitions
-- **Accessibility**: Semantic HTML, ARIA labels, proper form validation
+| 🏠 Home | 🛒 Cart | 💳 Checkout | ✅ Order Success |
+|:-------:|:--------:|:------------:|:----------------:|
+| ![Home Page](./screenshots/home.png) | ![Cart](./screenshots/cart.png) | ![Checkout](./screenshots/checkout.png) | ![Success](./screenshots/success.png) |
 
-### Pages & Components
-
-#### Product Grid
-- Displays 8 mock products in a responsive grid
-- Each product card shows image, name, description, rating, and price
-- Quantity selector with increment/decrement buttons
-- Add to cart button with loading state
-
-#### Shopping Cart
-- List view of cart items with image, price, and quantity
-- Quantity adjustment and item removal
-- Automatic total calculation
-- Cart summary with subtotal and total
-- Checkout button
-
-#### Checkout Form
-- Two-column layout: form on left, order summary on right
-- Input fields for full name and email
-- Order summary showing all items and total
-- Submit button with loading spinner
-- Form validation
-
-#### Receipt Modal
-- Displays after successful checkout
-- Shows order number, customer name, total, and timestamp
-- Auto-redirects to shop after 3 seconds
-
-## 📦 Mock Data
-
-The application includes 8 mock products:
-1. Wireless Headphones - $129.99
-2. USB-C Cable - $19.99
-3. Phone Case - $34.99
-4. Portable Charger - $45.99
-5. Screen Protector - $12.99
-6. Laptop Stand - $79.99
-7. Mechanical Keyboard - $159.99
-8. Wireless Mouse - $49.99
 
 ## ✨ Features Implemented
 
