@@ -144,7 +144,7 @@ vibe-commerce/
 
 | 🏠 Home | 🛒 Cart | 💳 Checkout | ✅ Order Success |
 |:-------:|:--------:|:------------:|:----------------:|
-| ![Home Page](./Screenshots/Home.png.jpg) | ![Cart](./Screenshots/Cart.png.jpg) | ![Checkout](./Screenshots/Checkout.png.jpg) | ![Success](./Screenshots/Successful.png.jpg) |
+| <img src="./Screenshots/Home.png.jpg" width="350"/> | <img src="./Screenshots/Cart.png.jpg" width="350"/> | <img src="./Screenshots/Checkout.png.jpg" width="350"/> | <img src="./Screenshots/Successful.png.jpg" width="350"/> |
 
 
 ## ✨ Features Implemented
